@@ -1,8 +1,11 @@
 Assignment Title: Student Product Billing & Management System 
+
 Name:   Nitesh Kumar 
-Date:   13/04/2026 
+
+Date:   13/04/2026
+
 Concept Used:   1. Class & Object; 
-                   e.g.: Student s = new Student();
+                   e.g.: Student s = new Student(); 
                 2. Constructor; 
                    e.g.: Employee(int id, String name, double salary)
                 3. Encapsulation; 
